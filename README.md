@@ -32,3 +32,14 @@ Then run the following command to create the project directory:
 ```bash
 degit spectre-xenon/VRRETTP <directory name>
 ```
+Then: 
+
+```bash
+cd <project name>
+
+npm install # Or ur package manager
+
+npm run dev
+```
+
+Enjoy!
