@@ -3,6 +3,7 @@
 simple project started template for my own use that includes:
 
 - Vite
+- Vitest
 - React
 - React-router
 - TypeScript
