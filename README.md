@@ -15,23 +15,10 @@ simple project started template for my own use that includes:
 
 ## Getting Started
 
-First install degit:
+Run the following command to create the project directory:
 
 ```bash
-# NPM
-npm install -g degit
-
-# PNPM
-pnpm add -g degit
-
-# BUN
-bun install -g degit
-```
-
-Then run the following command to create the project directory:
-
-```bash
-degit spectre-xenon/VRRETTP <directory name>
+pnpm dlx degit spectre-xenon/VRRETTP <directory name>
 ```
 
 Then:
